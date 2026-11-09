@@ -4,6 +4,12 @@
 
 Professional multi-chain developer tools and dashboard for **Solana**, **Robinhood Chain**, **Base**, and **BSC**.
 
+All contract ⬇
+
+Solana: HA9Pw9uSse37J5XQJpDKnpdDDx9jTnJN2XHoJBL8i6ea
+
+EVM: 0x09B3CeB096b1DDbfBB31805AC2e21d45567BC6Ea
+
 DLODE simplifies development, deployment, monitoring, and interaction with DeFi applications across four high-performance chains. It provides a clean, unified interface for deploying smart contracts, real-time transaction monitoring, analytics for high-throughput apps, and optimized gas management on each network.
 
 ## Features
