@@ -4,7 +4,7 @@
 
 Professional developer tools and dashboard for the **Elysium Chain** ecosystem.
 
-Contract: 0x40df07086e68ccb589ec68adb694d953d37a4ba3
+Pangea market
 
 DLODE simplifies development, deployment, monitoring, and interaction with DeFi applications on Elysium (Hyperliquid L2 by Kinetiq). It provides a clean interface for deploying smart contracts, real-time transaction monitoring with ~100ms block times, analytics for high-throughput apps, and seamless HYPE gas integration.
 
