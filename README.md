@@ -27,7 +27,6 @@ DLODE simplifies development, deployment, monitoring, and interaction with DeFi 
 ## Badges
 
 [![Follow](https://img.shields.io/badge/Follow-@DLODEACTIVE-black?style=for-the-badge&logo=x)](https://x.com/dlodeactive)
-[![Deployed on](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
